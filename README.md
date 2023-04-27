@@ -1,5 +1,5 @@
 # BitcoinMiner
-
+Developed Bitcoin Miner using Erlang and principles of Distributed operating systems.
 ## Execution Steps:
 1. Create a node using following command.<br/>
     erl -name username@IPAddress
